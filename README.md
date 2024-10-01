@@ -1,4 +1,3 @@
-# GitHub Commit Automation Script made By [HongJun(hJun-KR)](https://github.com/hJun-KR)
+# GitHub Commit Automation Script
 
 This script automates the process of committing and pushing changes to GitHub.
-Made by [HongJun(hJun-KR)](https://github.com/hJun-KR) 
